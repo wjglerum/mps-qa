@@ -8323,12 +8323,12 @@
                 <node concept="1bVj0M" id="13En2FvvjPG" role="23t8la">
                   <node concept="3clFbS" id="13En2FvvjPH" role="1bW5cS">
                     <node concept="3clFbF" id="13En2FvvjPI" role="3cqZAp">
-                      <node concept="2OqwBi" id="13En2FvvjPJ" role="3clFbG">
-                        <node concept="37vLTw" id="13En2FvvjPK" role="2Oq$k0">
-                          <ref role="3cqZAo" node="13En2FvvjPM" resolve="it" />
+                      <node concept="2Sg_IR" id="13En2FwrpxX" role="3clFbG">
+                        <node concept="37vLTw" id="13En2FwrpxY" role="2SgG2M">
+                          <ref role="3cqZAo" node="13En2Fw8U7C" resolve="componentNameResolver" />
                         </node>
-                        <node concept="liA8E" id="13En2FvvjPL" role="2OqNvi">
-                          <ref role="37wK5l" to="wyt6:~Object.toString()" resolve="toString" />
+                        <node concept="37vLTw" id="13En2FwrwIO" role="2SgHGx">
+                          <ref role="3cqZAo" node="13En2FvvjPM" resolve="it" />
                         </node>
                       </node>
                     </node>
